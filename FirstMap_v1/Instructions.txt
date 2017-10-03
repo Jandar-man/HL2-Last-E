@@ -1,0 +1,7 @@
+Steps to open a map in Source's Hammer editor:
+
+1: Go to: F:\Steam Libary\steamapps\common\Black Mesa\bin
+2: Open the Hammer.exe
+3: In the top left corner go to files -> Open
+4: Search for the VMF file and double click
+5: Done (map should load)
